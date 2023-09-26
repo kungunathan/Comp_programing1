@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_2d_Arrays" />
+        <module name="selector" />
+        <module name="switchStatement" />
+        <module name="selection_statements" />
+        <module name="_1D_Arrays" />
+        <module name="revision" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
